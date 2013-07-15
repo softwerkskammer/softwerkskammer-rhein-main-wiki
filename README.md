@@ -1,5 +1,5 @@
-[Wiki](https://github.com/softwerkskammer/softwerkskammer-rhein-main-wiki/wiki) of the [Softwerkskammer Rhein-Main](http://www.softwerkskammer.org/groups/rheinmain)
-===============================
+## [Wiki](https://github.com/softwerkskammer/softwerkskammer-rhein-main-wiki/wiki) of the [Softwerkskammer Rhein-Main](http://www.softwerkskammer.org/groups/rheinmain)
+
 
 This repo serves as the (possibly preliminary and temporary) [Wiki](https://github.com/softwerkskammer/softwerkskammer-rhein-main-wiki) for the [Softwerkskammer Rhein-Main](http://www.softwerkskammer.org/groups/rheinmain), a group of software enthusiasts, who want to make the software world a better place. 
 

@@ -6,3 +6,7 @@ This repo serves as the (possibly preliminary and temporary) [Wiki](https://gith
 This repo serves as a replacement for an "old" system used by the Softwerkskammer groups, where Wiki functionality was available. But since the Softwerkskammer groups have moved to a new software platform in August 2013, a Wiki is no longer  (at least for now) part of the software platform used to manage the groups.
 
 Go to the [Wiki](https://github.com/softwerkskammer/softwerkskammer-rhein-main-wiki)-tab of this repo to actually view (and possibly edit) the Wiki.
+
+### License
+
+All content in [this repository]() and [wiki]() is licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
